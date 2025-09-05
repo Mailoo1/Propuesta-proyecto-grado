@@ -1,9 +1,9 @@
 # 📌 Propuesta Proyecto de Grado – Plataforma de Denuncias Comunitarias  
 
 ## 👨‍💻 Autor  
-- **Nombre:** Camilo [Tu Apellido]  
+- **Nombre:** Camilo García
 - **Carrera:** Tecnología en Desarrollo de Software  
-- **Universidad:** [Nombre de tu universidad]  
+- **Universidad:** Universidad Católica Luis Amigó
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## 📝 Descripción del Problema  
-En muchas comunidades y barrios, los incidentes como **robos, daños en el espacio público o fallas en servicios básicos** no se reportan de manera eficiente.  
+En muchas comunidades, universidades y barrios, los incidentes como **robos, daños en el espacio público o fallas en servicios básicos** no se reportan de manera eficiente.  
 Esto genera **falta de información, poca organización y demora en las soluciones**.  
 
 ---
@@ -29,17 +29,10 @@ Diseñar y desarrollar una **plataforma web** donde los ciudadanos puedan:
 
 ## 🛠️ Tecnologías a Utilizar  
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** Node.js / Java (según lo que elijas)  
+- **Backend:** Node.js / Java  
 - **Base de Datos:** MySQL o MongoDB  
-- **Control de Versiones:** Git & GitHub  
+- **Control de Versiones:** Git & GitHub (no sé usarlos aún)
 
 ---
 
-## 📂 Estructura del Repositorio  
-```bash
-📦 plataforma-denuncias
- ┣ 📂 src        # Código fuente
- ┣ 📂 docs       # Documentación y diagramas
- ┣ 📂 assets     # Imágenes o recursos
- ┣ 📜 README.md  # Documentación principal
- ┗ 📜 LICENSE    # Licencia (opcional)
+
