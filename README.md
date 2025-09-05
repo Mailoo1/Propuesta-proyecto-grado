@@ -32,7 +32,9 @@ Diseñar y desarrollar una **plataforma web** donde los ciudadanos puedan:
 - **Backend:** Node.js / Java  
 - **Base de Datos:** MySQL o MongoDB  
 - **Control de Versiones:** Git & GitHub (no sé usarlos aún)
-
 ---
+
+## 🌍 Proyecto Inspiración  
+Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, una solución de código abierto utilizada para reportes ciudadanos y comunitarios en diferentes partes del mundo. 
 
 
