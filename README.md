@@ -37,6 +37,10 @@ Diseñar y desarrollar una **plataforma web** donde los ciudadanos puedan:
 ## 🌍 Proyecto Inspiración  
 Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, una solución de código abierto utilizada para reportes ciudadanos y comunitarios en diferentes partes del mundo. 
 
+##  Descargar diagrama 1 en pdf.
+📄 [Descargar diagrama en PDF](diagrama.pdf)
+
+
 ##  Diagrama 1 del proyecto  
 ![Diagrama del Proyecto](diagrama.jpg)
 
