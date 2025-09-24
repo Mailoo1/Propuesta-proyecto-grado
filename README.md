@@ -44,6 +44,53 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 ##  Diagrama 1 del proyecto  
 ![Diagrama del Proyecto](diagrama.jpg)
 
+## Historias de Usuario 
+
+### – Registro de denuncias
+👉 *Como ciudadano, quiero registrar un incidente en un formulario sencillo, para que quede reportado en la plataforma.*  
+
+- **Criterios de aceptación:**  
+  - Formulario con campos obligatorios: tipo, descripción, ubicación.  
+  - Validación de campos antes de enviar.  
+
+---
+
+### – Adjuntar ubicación
+👉 *Como ciudadano, quiero adjuntar la ubicación en un mapa o dirección, para que otros sepan dónde ocurrió el incidente.*  
+
+- **Criterios de aceptación:**  
+  - Opción de agregar dirección manual.  
+  - Opción de seleccionar en un mapa interactivo.  
+
+---
+
+### – Visualización de denuncias
+👉 *Como administrador comunitario, quiero ver todas las denuncias en una lista y mapa, para analizar dónde ocurren más problemas.*  
+
+- **Criterios de aceptación:**  
+  - Listado paginado de denuncias.  
+  - Mapa con marcadores de incidentes.  
+  - Filtro por tipo de incidente.  
+
+---
+
+### – Generar estadísticas
+👉 *Como administrador comunitario, quiero ver estadísticas de los incidentes (cantidad por tipo, zona, fecha), para tomar decisiones de seguridad.*  
+
+- **Criterios de aceptación:**  
+  - Gráfico de barras con cantidad de incidentes por tipo.  
+  - Gráfico de torta con distribución por zonas.  
+  - Posibilidad de filtrar por fechas.  
+
+---
+
+### – Confirmación de denuncia
+👉 *Como ciudadano, quiero recibir un mensaje de confirmación después de enviar mi denuncia, para estar seguro de que fue recibida.*  
+
+- **Criterios de aceptación:**  
+  - Mensaje de confirmación en pantalla.  
+  - (Opcional) Notificación por correo electrónico.
+
 
 
 
