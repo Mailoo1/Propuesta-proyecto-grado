@@ -46,16 +46,39 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ## Historias de Usuario 
 
-### – Registro de denuncias
-👉 *Como ciudadano, quiero registrar un incidente en un formulario sencillo, para que quede reportado en la plataforma.*  
+###– Registro de ciudadanos
+👉 *Como ciudadano, quiero crear una cuenta con mis datos personales (nombre, correo, contraseña), para poder acceder a la plataforma y registrar denuncias.*  
 
 - **Criterios de aceptación:**  
-  - Formulario con campos obligatorios: tipo, descripción, ubicación.  
-  - Validación de campos antes de enviar.  
+  - El formulario de registro solicita nombre, correo y contraseña.  
+  - Validación de correo electrónico único.  
+  - El sistema guarda al ciudadano en la base de datos.  
+  - Mensaje de confirmación de registro exitoso.  
 
 ---
 
-### – Adjuntar ubicación
+###– Inicio de sesión
+👉 *Como ciudadano registrado, quiero iniciar sesión con mi correo y contraseña, para poder acceder a mis denuncias y registrar nuevas.*  
+
+- **Criterios de aceptación:**  
+  - Formulario de login con correo y contraseña.  
+  - Validación de credenciales.  
+  - Mensaje de error si los datos son incorrectos.  
+  - Acceso correcto redirige a la página principal de denuncias.  
+
+---
+
+###– Registro de denuncias
+👉 *Como ciudadano, quiero registrar un incidente en un formulario sencillo, para que quede reportado en la plataforma.*  
+
+- **Criterios de aceptación:**  
+  - Formulario con campos obligatorios: tipo de incidente, descripción, ubicación.  
+  - Validación de campos antes de enviar.  
+  - Guardado en la base de datos.  
+
+---
+
+###– Adjuntar ubicación
 👉 *Como ciudadano, quiero adjuntar la ubicación en un mapa o dirección, para que otros sepan dónde ocurrió el incidente.*  
 
 - **Criterios de aceptación:**  
@@ -64,7 +87,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-### – Visualización de denuncias
+###– Visualización de denuncias
 👉 *Como administrador comunitario, quiero ver todas las denuncias en una lista y mapa, para analizar dónde ocurren más problemas.*  
 
 - **Criterios de aceptación:**  
@@ -74,7 +97,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-### – Generar estadísticas
+###– Generar estadísticas
 👉 *Como administrador comunitario, quiero ver estadísticas de los incidentes (cantidad por tipo, zona, fecha), para tomar decisiones de seguridad.*  
 
 - **Criterios de aceptación:**  
