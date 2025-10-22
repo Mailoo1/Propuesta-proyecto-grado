@@ -124,5 +124,5 @@ Estos procesos serán aplicados de forma iterativa durante el desarrollo para as
 
 A continuación se muestra el diagrama de casos de uso del proyecto **SafeCommunity**, que representa las interacciones principales entre los actores y el sistema.
 
-![Use Case Diagram – SafeCommunity](./Diagrama de casos de uso SafeCommunity.png)
+(./Diagrama de casos de uso SafeCommunity.png)
 
