@@ -120,17 +120,3 @@ Estos procesos serán aplicados de forma iterativa durante el desarrollo para as
 
 ---
 
-## 📁 7️⃣ Instrucciones para GitHub
-
-```bash
-# Crear nueva rama
-git checkout -b validateandverificate
-
-# Agregar el nuevo archivo
-git add VALIDATION_AND_VERIFICATION.md
-
-# Hacer commit
-git commit -m "Added validation and verification plan with use cases"
-
-# Subir la rama al repositorio remoto
-git push origin validateandverificate
