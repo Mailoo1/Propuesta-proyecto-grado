@@ -97,7 +97,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-##– Generar estadísticas
+## Generar estadísticas
 👉 *Como administrador comunitario, quiero ver estadísticas de los incidentes (cantidad por tipo, zona, fecha), para tomar decisiones de seguridad.*  
 
 - **Criterios de aceptación:**  
