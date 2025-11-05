@@ -46,7 +46,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ## Historias de Usuario 
 
-###– Registro de ciudadanos
+### Registro de ciudadanos
 👉 *Como ciudadano, quiero crear una cuenta con mis datos personales (nombre, correo, contraseña), para poder acceder a la plataforma y registrar denuncias.*  
 
 - **Criterios de aceptación:**  
@@ -57,7 +57,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-###– Inicio de sesión
+### Inicio de sesión
 👉 *Como ciudadano registrado, quiero iniciar sesión con mi correo y contraseña, para poder acceder a mis denuncias y registrar nuevas.*  
 
 - **Criterios de aceptación:**  
@@ -68,7 +68,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-###– Registro de denuncias
+### Registro de denuncias
 👉 *Como ciudadano, quiero registrar un incidente en un formulario sencillo, para que quede reportado en la plataforma.*  
 
 - **Criterios de aceptación:**  
@@ -78,7 +78,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-##– Adjuntar ubicación
+## Adjuntar ubicación
 👉 *Como ciudadano, quiero adjuntar la ubicación en un mapa o dirección, para que otros sepan dónde ocurrió el incidente.*  
 
 - **Criterios de aceptación:**  
@@ -87,7 +87,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-##– Visualización de denuncias
+## Visualización de denuncias
 👉 *Como administrador comunitario, quiero ver todas las denuncias en una lista y mapa, para analizar dónde ocurren más problemas.*  
 
 - **Criterios de aceptación:**  
@@ -107,7 +107,7 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
 
 ---
 
-## – Confirmación de denuncia
+## Confirmación de denuncia
 👉 *Como ciudadano, quiero recibir un mensaje de confirmación después de enviar mi denuncia, para estar seguro de que fue recibida.*  
 
 - **Criterios de aceptación:**  
