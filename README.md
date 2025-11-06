@@ -125,20 +125,6 @@ El siguiente diagrama de Ishikawa (o de causa-efecto) identifica las principales
   - (Opcional) Notificación por correo electrónico.
     
 ---
-## ⚙️ Requisitos No Funcionales (ISO/IEC 25000 – SQuaRE)
-
-Según el estándar **ISO/IEC 25000**, los requisitos no funcionales garantizan la calidad del sistema SafeCommunity en aspectos más allá de las funcionalidades básicas.
-
-| Categoría | Descripción |
-|------------|-------------|
-| **Usabilidad** | La interfaz debe ser intuitiva y accesible para todo tipo de usuarios, incluyendo adultos mayores. |
-| **Fiabilidad** | El sistema debe garantizar la integridad de la información reportada, evitando duplicados o pérdida de datos. |
-| **Eficiencia de Desempeño** | Las consultas y registros deben realizarse en menos de 3 segundos bajo carga normal. |
-| **Seguridad** | Las contraseñas deben almacenarse cifradas y el acceso debe requerir autenticación. |
-| **Mantenibilidad** | El código debe estar documentado para permitir actualizaciones futuras. |
-| **Portabilidad** | La plataforma debe poder ejecutarse en navegadores modernos y dispositivos móviles. |
-
----
 
 ## 🚀 Retos y Mejores Prácticas en el Agilismo
 
