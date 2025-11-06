@@ -124,7 +124,20 @@ Estos procesos serán aplicados de forma iterativa durante el desarrollo para as
 
 A continuación se muestra el diagrama de casos de uso del proyecto **SafeCommunity**, que representa las interacciones principales entre los actores y el sistema.
 
-![Use Case Diagram – SafeCommunity](usecase_diagram.png)
+![Use Case Diagram – SafeCommunity](DiagramaSafeComunity.png)
+
+## ⚙️ Requisitos No Funcionales (ISO/IEC 25000 – SQuaRE)
+
+Según el estándar **ISO/IEC 25000**, los requisitos no funcionales garantizan la calidad del sistema SafeCommunity en aspectos más allá de las funcionalidades básicas.
+
+| Categoría | Descripción |
+|------------|-------------|
+| **Usabilidad** | La interfaz debe ser intuitiva y accesible para todo tipo de usuarios, incluyendo adultos mayores. |
+| **Fiabilidad** | El sistema debe garantizar la integridad de la información reportada, evitando duplicados o pérdida de datos. |
+| **Eficiencia de Desempeño** | Las consultas y registros deben realizarse en menos de 3 segundos bajo carga normal. |
+| **Seguridad** | Las contraseñas deben almacenarse cifradas y el acceso debe requerir autenticación. |
+| **Mantenibilidad** | El código debe estar documentado para permitir actualizaciones futuras. |
+| **Portabilidad** | La plataforma debe poder ejecutarse en navegadores modernos y dispositivos móviles. |
 
 
 
