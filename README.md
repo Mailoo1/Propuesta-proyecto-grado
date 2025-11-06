@@ -1,4 +1,5 @@
 
+
 # 🧾 VALIDATION AND VERIFICATION PLAN  
 ## Proyecto: SafeCommunity – Plataforma de Denuncias Comunitarias  
 **Autor:** Camilo García  
@@ -293,4 +294,10 @@ De esta forma, se garantiza que la plataforma no solo cumpla con los objetivos f
 
 
 
+
+=======
+# Propuesta-proyecto-grado
+Ideas para el proyecto de grado Tecnología en Desarrollo de Software 
+ hoa final 
+ 
 
