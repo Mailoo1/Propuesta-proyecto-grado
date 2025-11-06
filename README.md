@@ -127,3 +127,5 @@ A continuación se muestra el diagrama de casos de uso del proyecto **SafeCommun
 ![Use Case Diagram – SafeCommunity](usecase_diagram.png)
 
 
+
+
