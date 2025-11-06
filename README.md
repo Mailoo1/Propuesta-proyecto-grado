@@ -115,5 +115,62 @@ Este proyecto lo tomo como referencia **[Ushahidi](https://www.ushahidi.com)**, 
   - (Opcional) Notificación por correo electrónico.
 
 
+---
+
+## 🧩 Diagrama de Procesos e Ishikawa
+
+El siguiente diagrama de Ishikawa (o de causa-efecto) identifica las principales causas del problema **“baja denuncia ciudadana en la comunidad”**.
+
+**Causas principales:**
+
+- **Tecnología:** Falta de herramientas digitales para reportar incidentes.  
+- **Comunicación:** Poca difusión sobre canales existentes de denuncia.  
+- **Cultura:** Desconfianza o miedo a reportar por posibles represalias.  
+- **Gestión:** Falta de seguimiento y respuesta oportuna de las autoridades.  
+- **Educación:** Desconocimiento de los derechos ciudadanos y procesos de denuncia.  
+
+📄 *Archivo relacionado:* [ishikawa.pdf](ishikawa.pdf)  
+*(El archivo puede ser una imagen o diagrama exportado que muestre las causas y efectos de forma visual).*
+
+---
+
+## ⚙️ Requisitos No Funcionales (ISO/IEC 25000 – SQuaRE)
+
+Según el estándar **ISO/IEC 25000**, los requisitos no funcionales garantizan la calidad del sistema SafeCommunity en aspectos más allá de las funcionalidades básicas.
+
+| Categoría | Descripción |
+|------------|-------------|
+| **Usabilidad** | La interfaz debe ser intuitiva y accesible para todo tipo de usuarios, incluyendo adultos mayores. |
+| **Fiabilidad** | El sistema debe garantizar la integridad de la información reportada, evitando duplicados o pérdida de datos. |
+| **Eficiencia de Desempeño** | Las consultas y registros deben realizarse en menos de 3 segundos bajo carga normal. |
+| **Seguridad** | Las contraseñas deben almacenarse cifradas y el acceso debe requerir autenticación. |
+| **Mantenibilidad** | El código debe estar documentado para permitir actualizaciones futuras. |
+| **Portabilidad** | La plataforma debe poder ejecutarse en navegadores modernos y dispositivos móviles. |
+
+---
+
+## 🚀 Retos y Mejores Prácticas en el Agilismo
+
+El desarrollo de **SafeCommunity** se guía bajo principios ágiles que promueven la colaboración continua y la mejora constante.
+
+**Retos identificados:**
+- Mantener la comunicación fluida entre los interesados (usuarios, líderes comunitarios y desarrolladores).  
+- Adaptar los requerimientos a medida que surgen nuevas necesidades.  
+- Priorizar las funcionalidades según su impacto social.
+
+**Mejores prácticas aplicadas:**
+- Uso de *historias de usuario* para definir las funcionalidades desde la perspectiva del ciudadano.  
+- Reuniones periódicas de revisión (sprints cortos) para validar avances.  
+- Retroalimentación continua y registro de incidencias mediante herramientas como **Jira** o **GitHub Projects**.  
+
+---
+
+## 🔁 Conclusión
+
+El análisis de requerimientos de *SafeCommunity* integra la gestión, definición, validación y verificación de las funcionalidades del sistema, aplicando metodologías ágiles y normas de calidad (ISO/IEC 25000).  
+De esta forma, se garantiza que la plataforma no solo cumpla con los objetivos funcionales, sino también con los estándares de usabilidad, seguridad y confiabilidad esperados por la comunidad.
+
+
+
 
 
